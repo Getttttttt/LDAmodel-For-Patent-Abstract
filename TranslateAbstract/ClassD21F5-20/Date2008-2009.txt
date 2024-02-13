@@ -1,0 +1,5 @@
+id-US8429832B2    abstract-A process and a device for utilization of waste heat from a high-temperature hood in the dryer section of a paper machine. The waste heat from the high-temperature hood is applied to the waste steam and the condensate, respectively, from a steam system by means of a heat exchanger, thus improving utilization of the energy contained in the exhaust air from a high temperature hood.
+
+id-EP2143841A2    abstract-The invention relates to the use of a cooling system and Abfuhrung redundant process and/or Maschinenwarme to form a closed primary Kuhlkreislauf (3) (Primarkreislauf), the basis for excess thermal analysis, while at least Kuhlruckwasserbehalter (6) has fields (6) and Phase I Part II (6b). Mutual trennbar through Trennvorrichtung(16,17).
+id-EP2356281B1    abstract-
+

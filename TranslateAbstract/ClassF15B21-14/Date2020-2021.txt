@@ -1,0 +1,6 @@
+id-EP3997276A4    abstract-
+
+id-JP7285380B2    abstract-
+
+id-US20220136535A1    abstract-A hydraulic circuit includes a prime mover that is configured to generate an oscillating flow of hydraulic fluid, and an actuator that is driven by the prime mover and configured to provide oscillating motion and to be connected to a load in each direction of the motion. The hydraulic circuit also includes a reclamation device that is disposed in the hydraulic circuit between the prime mover and the actuator. The reclamation device captures and stores a portion of hydraulic fluid displaced from the actuator during a transition between opposed motions, where the portion of hydraulic fluid corresponds to an amount of hydraulic fluid equal to a volume of fluid required to compensate for compression of fluid within the hydraulic circuit due to system pressure and load pressure. The stored fluid is used by the circuit in a subsequent motion.
+

@@ -1,0 +1,11 @@
+id-JP2014152781A    abstract-Challenges to provide a power generation unit that synchronizes the power and cooling requirements of gas turbines and generators in a simple and most effective form. In order to transfer heat from the cooling water flowing through the generator cooling system 20 to the air flowing through the intake section 12, the generator cooling system 20 is arranged in the intake section 12 of the gas turbine 11. Connected to instrument 30. Selection diagram: figure 1
+id-EP2778368B1    abstract-
+
+id-JP6060029B2    abstract-
+
+id-US20150144076A1    abstract-A heat recovery vapor trap is provided for removal of vapor condensate from a container, while preventing any appreciable escape of vapor, and for achieving beneficial heat recovery from said condensate prior to temperature degradation associated with depressurization, whereby useful heating to much higher temperature is possible. The trap is indirect acting, and is preferably mechanically actuated by a float.
+
+id-US20150107249A1    abstract-A system includes a gas compressor system and a thermal cycle. The gas compressor system includes a compressor housing defining an interior compressor chamber. A gas compressor is in the interior compressor chamber to compress gas received into interior compressor chamber. A heat exchange fluid passage is provided adjacent to a surface that contacts the gas being compressed by the gas compressor. The thermal cycle includes a working fluid heated using the heat exchange fluid passage of the compressor housing. The working fluid is expanded by the thermal cycle to generate electricity.
+
+id-US20160273410A1    abstract-A thermal power plant with a generator, includes a cooling system for the generator, wherein the waste heat released from the generator on cooling can be used profitably for operating the thermal power plant, including drying fuel, in particular for drying coal. In a method for using waste heat of a generator of a thermal power plant, the waste heat of the generator is used for drying fuel, in particular for drying coal.
+

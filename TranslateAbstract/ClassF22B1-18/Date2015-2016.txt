@@ -1,0 +1,6 @@
+id-US11674685B2    abstract-A multi-circulation heat recovery steam generator (HRSG) for steam assisted gravity drainage (SAGD)/Enhanced Oil Recovery (EOR) processes comprises a steam drum internally partitioned to provide a clean side and a dirty side. The clean side downcomer pipe supplies water to one or more generating banks as part of a clean circuit located in a high heat flux zone of the boiler. Boiler water is fed from the clean side of the drum to the dirty side of the drum via natural head differential. Water is then fed through a corresponding downcomer to a dirty generating bank, which is located in a low heat flux zone of the boiler.
+
+id-US11613975B2    abstract-A system for improving a steam oil ratio (SOR) includes a direct steam generator (DSG) boiler fluidly coupled with a downhole portion of a steam system via at least a DSG outlet, wherein the DSG boiler is configured to schedule super-heat delivered to the downhole portion to optimize the SOR associated with the system.
+
+id-US10465902B2    abstract-A Combined evaporator and mixer for evaporating a liquid, particularly water, and mixing with a gas, particularly natural gas, including a housing and at least one individual mixing-evaporation module having exhaust gas openings at two of its ends.
+
